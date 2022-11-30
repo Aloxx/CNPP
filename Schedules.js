@@ -1,3 +1,10 @@
+/**
+
+Scheduler that like see time difference but more smarter , useful for big apps that requires much time diff checks.
+
+
+*/
+
 export class EvelScheduler {
     constructor() {
         /**
